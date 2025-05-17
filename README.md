@@ -13,3 +13,7 @@
 - **LinkedListOfferLast-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/LinkedListOfferLast-output.png)
 - **LinkedListElementPosition-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/LinkedListElementPosition-output.png)
 - **LinkedListSwap-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/LinkedListSwap-output.png)
+# Program 2a-String Operations
+- **StringOperations** -(https://github.com/kavyashreenayak29/java_programming/blob/main/StringOperations.java)
+# Program 2b-StringBuffer and StringBuilder
+- **StringBufferVsStringBuilder** -(https://github.com/kavyashreenayak29/java_programming/blob/main/StringOperations.java)
