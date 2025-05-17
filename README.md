@@ -18,7 +18,7 @@
 # Program 2b-StringBuffer and StringBuilder
 - **StringBufferVsStringBuilder** -(https://github.com/kavyashreenayak29/java_programming/blob/main/StringOperations.java) -- **StringBufferVsStringBuilder-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/StringBufferVsStringBuilder-output.png)
 # Program 3a-String Handling
-- **StringHandingDemo** -() -- **StringHandingDemo-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/StringHandlingDemo-output.png)
+- **StringHandingDemo** -(https://github.com/kavyashreenayak29/java_programming/blob/main/StringHandlingDemo.java) -- **StringHandingDemo-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/StringHandlingDemo-output.png)
 # Program 3b & 3c-String Exercise
 - **NullOrEmptyCheck-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/NullOrEmptyCheck-output.png)
 - **SubstringCounter-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/SubstringCounter-output.png)
