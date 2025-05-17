@@ -1,6 +1,6 @@
 # java_programming
 # Program 1a-ListInterfaceDemo
-- **ListInterfaceDemo** -(https://github.com/kavyashreenayak29/java_programming/blob/main/ListInterfaceDemo.java) -- **ListInterfaceDemo output** -(https://github.com/kavyashreenayak29/java_programming/blob/main/ListInterfaceDemo-output.png) 
+- **ListInterfaceDemo** -(https://github.com/kavyashreenayak29/java_programming/blob/main/ListInterfaceDemo.java) -- **ListInterfaceDemo-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/ListInterfaceDemo-output.png) 
 # Program 1b-ArrayList
 - **ArrayListColorCheck-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/ArrayListColorCheck-output.png)
 - **ArrayListRemoveColor-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/ArrayListRemoveColor-output.png)
@@ -14,6 +14,6 @@
 - **LinkedListElementPosition-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/LinkedListElementPosition-output.png)
 - **LinkedListSwap-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/LinkedListSwap-output.png)
 # Program 2a-String Operations
-- **StringOperations** -(https://github.com/kavyashreenayak29/java_programming/blob/main/StringOperations.java)
+- **StringOperations** -(https://github.com/kavyashreenayak29/java_programming/blob/main/StringOperations.java) -- **StringOperations-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/StringOperations-output.png)
 # Program 2b-StringBuffer and StringBuilder
-- **StringBufferVsStringBuilder** -(https://github.com/kavyashreenayak29/java_programming/blob/main/StringOperations.java)
+- **StringBufferVsStringBuilder** -(https://github.com/kavyashreenayak29/java_programming/blob/main/StringOperations.java) -- ****StringBufferVsStringBuilder-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/StringBufferVsStringBuilder-output.png)
