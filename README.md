@@ -16,4 +16,4 @@
 # Program 2a-String Operations
 - **StringOperations** -(https://github.com/kavyashreenayak29/java_programming/blob/main/StringOperations.java) -- **StringOperations-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/StringOperations-output.png)
 # Program 2b-StringBuffer and StringBuilder
-- **StringBufferVsStringBuilder** -(https://github.com/kavyashreenayak29/java_programming/blob/main/StringOperations.java) -- ****StringBufferVsStringBuilder-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/StringBufferVsStringBuilder-output.png)
+- **StringBufferVsStringBuilder** -(https://github.com/kavyashreenayak29/java_programming/blob/main/StringOperations.java) -- **StringBufferVsStringBuilder-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/StringBufferVsStringBuilder-output.png)
