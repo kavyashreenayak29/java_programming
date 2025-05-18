@@ -37,5 +37,10 @@
 # Program 4c-Image Button Example
 - **ImageButtonExampe** -(https://github.com/kavyashreenayak29/java_programming/blob/main/ImageButtonExample.java) -- **ImageButtonExample-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/ImageButtonExample-output.png)
 # Program 5a-JList Example
+- **JListExample** -(https://github.com/kavyashreenayak29/java_programming/blob/main/JListExample.java) -- **JListExample-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/JListExample-output.png)
 # Program 5b-TabbedPane Example
+- **TabbedPaneExample** -(https://github.com/kavyashreenayak29/java_programming/blob/main/TabbedPaneExample.java) -- **TabbedPaneExample-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/TabbedPaneExample-output.png)
 # Program 5c-Country Capital List
+- **CountryCapitalList** -(https://github.com/kavyashreenayak29/java_programming/blob/main/CountryCapitalList.java) -- **ContryCapitalList-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/CountryCapitalList-output.png)
+# Program 5d-Color TabbedPane Example
+- **ColorTbbedPaneExample** -(https://github.com/kavyashreenayak29/java_programming/blob/main/ColorTabbedPaneExample.java) --**ColorTabbedPaneExample-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/ColorTabbedPaneExample-output.png) 
