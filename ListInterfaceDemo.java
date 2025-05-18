@@ -70,7 +70,7 @@ System.out.println("After removing first and last: " + fruits);
 }
 }
 
-//Exercides
+//Exercises
 //1b. ArrayList Programs
 //1.Write a java program for getting different colors through ArrayList interface and search whether the color "Red" is available or not
 import java.util.*;
