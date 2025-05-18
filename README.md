@@ -50,3 +50,7 @@
 - **CookieServlet** -(https://github.com/kavyashreenayak29/java_programming/blob/main/CookieServlet.java) -- **CookieServlet-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/CookieServlet-output.png)
 # Program 6c-Prime Servlet
 - **PrimeServlet** -(https://github.com/kavyashreenayak29/java_programming/blob/main/PrimeServlet.java) -- **PrimeServlet-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/PrimeServlet-output.png)
+# Program 7a-Session Management
+- **SessionManagement** -(https://github.com/kavyashreenayak29/java_programming/blob/main/SessionManagement.java) -- **SessionManagement-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/SessionManagement-output.png)
+# Program 7b-Set Cookie
+- **SetCookie** -(https://github.com/kavyashreenayak29/java_programming/blob/main/SetCookie.java) -- **SetCookie-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/SetCookie-output.png)
