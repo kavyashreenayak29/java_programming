@@ -44,3 +44,9 @@
 - **CountryCapitalList** -(https://github.com/kavyashreenayak29/java_programming/blob/main/CountryCapitalList.java) -- **ContryCapitalList-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/CountryCapitalList-output.png)
 # Program 5d-Color TabbedPane Example
 - **ColorTbbedPaneExample** -(https://github.com/kavyashreenayak29/java_programming/blob/main/ColorTabbedPaneExample.java) --**ColorTabbedPaneExample-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/ColorTabbedPaneExample-output.png) 
+# Program 6a-Factorial Servlet
+- **FactorialServlet** -(https://github.com/kavyashreenayak29/java_programming/blob/main/FactorialServlet.java) -- **FactorialServlet-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/FactorialServlet-output.png)
+# Program 6b-Cookie Servlet
+- **CookieServlet** -(https://github.com/kavyashreenayak29/java_programming/blob/main/CookieServlet.java) -- **CookieServlet-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/CookieServlet-output.png)
+# Program 6c-Prime Servlet
+- **PrimeServlet** -(https://github.com/kavyashreenayak29/java_programming/blob/main/PrimeServlet.java) -- **PrimeServlet-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/PrimeServlet-output.png)
