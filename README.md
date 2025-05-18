@@ -33,4 +33,4 @@
 # Program 4a-Swing Example
 - **SwingExample** - (https://github.com/kavyashreenayak29/java_programming/blob/main/SwingExample.java) -- **SwingExample-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/SwingExample-output.png)
 # Program 4b-Button Example
-- **ButtonExample** -(https://github.com/kavyashreenayak29/java_programming/blob/main/ButtonExample.java) -- **ButtonExampel-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/ButtonExample-output.png)
+- **ButtonExample** -(https://github.com/kavyashreenayak29/java_programming/blob/main/ButtonExample.java) -- **ButtonExample-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/ButtonExample-output.png)
