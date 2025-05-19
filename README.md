@@ -19,12 +19,13 @@
 - **StringBufferVsStringBuilder** -(https://github.com/kavyashreenayak29/java_programming/blob/main/StringOperations.java) -- **StringBufferVsStringBuilder-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/StringBufferVsStringBuilder-output.png)
 # Program 3a-String Handling
 - **StringHandingDemo** -(https://github.com/kavyashreenayak29/java_programming/blob/main/StringHandlingDemo.java) -- **StringHandingDemo-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/StringHandlingDemo-output.png)
-# Program 3b & 3c-String Exercise
+# Program 3b-String Exercise Programs
 - **NullOrEmptyCheck-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/NullOrEmptyCheck-output.png)
 - **SubstringCounter-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/SubstringCounter-output.png)
 - **ReverseString-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/ReverseString-output.png)
 - **PalindromeChecker-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/PalindromeChecker-output.png)
 - **WhitespaceRemover-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/WhitespaceRemover-output.png)
+# Program 3c-String Exercise Programs
 - **CapitalizeWords-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/CapitalizeWords-output.png)
 - **TruncateString-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/TruncateString-output.png)
 - **NumericCheck-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/NumericCheck-output.png)
