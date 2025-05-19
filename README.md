@@ -54,3 +54,19 @@
 - **SessionManagement** -(https://github.com/kavyashreenayak29/java_programming/blob/main/SessionManagement.java) -- **SessionManagement-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/SessionManagement-output.png)
 # Program 7b-Set Cookie
 - **SetCookie** -(https://github.com/kavyashreenayak29/java_programming/blob/main/SetCookie.java) -- **SetCookie-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/SetCookie-output.png)
+# Program 8a-Insert Coffee
+- **Insert_Coffee** -(https://github.com/kavyashreenayak29/java_programming/blob/main/Insert_Coffee.java) -- **Insert_Coffee-o/p** - (https://github.com/kavyashreenayak29/java_programming/blob/main/Insert_Coffee-output.png)
+# Program 8b-Update Coffee
+- **Update_Coffee** -(https://github.com/kavyashreenayak29/java_programming/blob/main/Update_Coffee.java) -- **Update_Coffee-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/Update_Coffee-output.png)
+# Program 8c-Append Fields
+- **AppendFields** -(https://github.com/kavyashreenayak29/java_programming/blob/main/AppendFields.java) -- **AppendFields-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/AppendFields-output.png)
+# Program 8d-Update Fields
+- **UpdateFields** -(https://github.com/kavyashreenayak29/java_programming/blob/main/UpdateFields.java) -- **UpdateFields-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/UpdateFields-output.png)
+# Program 9a-Delete Coffee
+- **Delete_Coffee** -(https://github.com/kavyashreenayak29/java_programming/blob/main/Delete_Coffee.java) --**Delete_Coffee-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/Delete_Coffee-output.png)
+# Program 9b-Query Coffee
+- **Query_Coffee** -(https://github.com/kavyashreenayak29/java_programming/blob/main/Query_Coffee.java) --**Query_Coffee-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/Query_Coffee-output.png)
+# Program 9c-Mysql_Insert_Report
+- **Mysql_Insert_Report** -(https://github.com/kavyashreenayak29/java_programming/blob/main/Mysql_Insert_Report.java) --**Mysql_Insert_Report-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/Mysql_Insert_Report-output.png)
+# Program 9d-Mysql_Delete_By_Name
+- **Mysql_Delete_By_Name** -(https://github.com/kavyashreenayak29/java_programming/blob/main/Mysql_Delete_By_Name.java) --**Mysql_Delete_By_Name-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/Mysql_Delete_By_Name-output.png)
