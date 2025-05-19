@@ -2,12 +2,14 @@
 # Program 1a-List Interface Demo
 - **ListInterfaceDemo** -(https://github.com/kavyashreenayak29/java_programming/blob/main/ListInterfaceDemo.java) -- **ListInterfaceDemo-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/ListInterfaceDemo-output.png) 
 # Program 1b-ArrayList
+- **ArrayList** -(https://github.com/kavyashreenayak29/java_programming/blob/main/ArrayList.java)
 - **ArrayListColorCheck-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/ArrayListColorCheck-output.png)
 - **ArrayListRemoveColor-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/ArrayListRemoveColor-output.png)
 - **ArrayListSortColors-o/p**- (https://github.com/kavyashreenayak29/java_programming/blob/main/ArrayListSortColors-output.png)
 - **ArrayListSubList-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/ArrayListSubList-output.png)
 - **ArrayListRemoveNth-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/ArrayListRemoveNth-output.png)
 # Program 1c-LinkedList
+- **LinkedList** -(https://github.com/kavyashreenayak29/java_programming/blob/main/LinkedList.java)
 - **LinkedListIterateFromSecond-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/LinkedListIterateFromSecond-output.png)
 - **LinkedListReverseIteration-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/LinkedListReverseIteration-output.png)
 - **LinkedListOfferLast-o/p** -(https://github.com/kavyashreenayak29/java_programming/blob/main/LinkedListOfferLast-output.png)
